@@ -96,5 +96,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ### Author
-**Your Name** - [GitHub Profile](https://github.com/Laxmikant3)
+**Your Name** - Laxmikant Dubey
 
