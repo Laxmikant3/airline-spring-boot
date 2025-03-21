@@ -88,15 +88,7 @@ DELETE /tickets/{id}
 ## Testing the API
 You can test the API using:
 - **Postman**
-- **cURL**
-- **Swagger UI (if integrated)**
 
-Example cURL command to create a ticket:
-```sh
-curl -X POST "http://localhost:8080/tickets" -H "Content-Type: application/json" -d '{"passengerName":"John Doe","flightNumber":"AI123","price":500.0}'
-```
-
----
 
 ## License
 This project is licensed under the **MIT License**.
@@ -104,5 +96,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ### Author
-**Your Name** - [GitHub Profile](https://github.com/yourusername)
+**Your Name** - [GitHub Profile](https://github.com/Laxmikant3)
 
